@@ -4,10 +4,10 @@
     "slug": "awesomeproject",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
+    "icon": "./assets/zomato_logo.png",
+    "userInterfaceStyle": "Dark",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/zomato_logo.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -22,12 +22,18 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
-      }
+        "foregroundImage": "./assets/zomato_logo.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.ksmade.awesomeproject"
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/zomato_logo.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "5fd6bf0b-7bd8-47de-8f08-43372a4e19f4"
+      }
     }
   }
 }
