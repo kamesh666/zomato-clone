@@ -28,6 +28,7 @@ As it is only frontend clone I have added static data but in a dynamic way so da
 |react-navigation | navigation library|
 |nativewind | tailwindcss |
 |react-redux | state management |
+|Sanity | backend Framework |
 
 ## Technologies
 |Tool Name | Description |
