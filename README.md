@@ -55,10 +55,10 @@ To run this project, install it locally using npm or yarn:
 
 ### Restaurant Page:
 
-<img src='./example/kfc.jpg' />
-<img src='./example/restaurant1.jpg' />
+<img src='./example/kfc.jpg' width='200'/>
+<img src='./example/restaurant1.jpg' width='200' />
 
 <br>
 
 ### Basket page :
-<img src='./example/basket.jpg' alt='basket image' />
+<img src='./example/basket.jpg' alt='basket image' width='200'/>
