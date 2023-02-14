@@ -5,7 +5,7 @@
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/zomato_logo.png",
-    "userInterfaceStyle": "Dark",
+    "userInterfaceStyle": "Light",
     "splash": {
       "image": "./assets/zomato_logo.png",
       "resizeMode": "contain",
