@@ -49,7 +49,7 @@ To run this project, install it locally using npm or yarn:
 ## Examples
 ### Home Page
 
-<img src='./example/home.jpg' />
+<img src='./example/home.jpg' width='200' />
 
 <br>
 
